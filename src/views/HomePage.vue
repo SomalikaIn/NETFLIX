@@ -22,14 +22,14 @@
       // Carousel,
       Footer
     },
-    mounted()
-    {
-        let user = localStorage.getItem('userinfo');
-        if(!user)
-        {
-            this.$router.push({name:'SignIn'})
-        }
-    }
+    // mounted()
+    // {
+    //     let user = localStorage.getItem('userinfo');
+    //     if(!user)
+    //     {
+    //         this.$router.push({name:'SignIn'})
+    //     }
+    // }
 
   }
   </script>

@@ -4,8 +4,8 @@ import Trending from "@/views/Trending.vue";
 import Movie from "@/views/Movie.vue";
 import TV from '@/views/TvShow.vue';
 // import Genre from '@/views/Genre.vue';
-import SignUp from '@/components/SignUp.vue'
-import SignIn from '@/components/SignIn.vue'
+//import SignUp from '@/components/SignUp.vue'
+//import SignIn from '@/components/SignIn.vue'
 import MovieDetail from '@/components/MovieDetail.vue'
 
 const routes = [
@@ -34,16 +34,16 @@ const routes = [
   //   name: "Genre",
   //   component: Genre,
   // },
-  {
-    path: "/signUp",
-    name: "SignUp",
-    component: SignUp,
-  },
-  {
-    path: "/signIn",
-    name: "SignIn",
-    component: SignIn,
-  },
+  // {
+  //   path: "/signUp",
+  //   name: "SignUp",
+  //   component: SignUp,
+  // },
+  // {
+  //   path: "/signIn",
+  //   name: "SignIn",
+  //   component: SignIn,
+  // },
   {
     path: "/detail",
     name: "MovieDetail",

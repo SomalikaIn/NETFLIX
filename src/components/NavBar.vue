@@ -39,7 +39,7 @@
     <div class="item error" v-if="input && !filteredList().length">
         <p>No results found!</p>
       </div> -->
-      <button v-on:click="signout" class="btn btn-danger my-2 my-sm-0" type="submit">Sign Out</button>
+      <button v-on:click="signup" class="btn btn-danger my-2 my-sm-0" type="submit">Sign Up</button>
     </form>
 
   </div>
