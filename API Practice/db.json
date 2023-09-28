@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "username": "lika",
+      "email": "lika@gmail.com",
+      "password": "123",
+      "cfpassword": "123",
+      "id": 1
+    },
+    {
+      "username": "test",
+      "email": "test@test",
+      "password": "972",
+      "cfpassword": "973",
+      "id": 2
+    },
+    {
+      "username": "test",
+      "email": "test",
+      "password": "123",
+      "cfpassword": "123",
+      "id": 3
+    },
+    {
+      "username": "Nyny",
+      "email": "nyny@gmail.com",
+      "password": "098",
+      "cfpassword": "098",
+      "id": 4
+    },
+    {
+      "username": "dane",
+      "email": "dane@gmail.com",
+      "password": "123",
+      "cfpassword": "123",
+      "id": 5
+    }
+  ]
+}
